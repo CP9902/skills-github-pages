@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Student Life: Welcome to the life of a South African student
 ---
 
