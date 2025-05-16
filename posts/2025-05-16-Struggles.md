@@ -1,4 +1,4 @@
 ---
-title: "Struggles"
-date: 2025-05-16
+title:"Struggles"
+date:2025-05-16
 ---
