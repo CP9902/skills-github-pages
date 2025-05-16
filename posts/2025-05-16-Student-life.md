@@ -1,4 +1,4 @@
 ---
-title: "Struggles"
+title: "Student-life"
 date: 2025-05-16
 ---
