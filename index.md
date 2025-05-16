@@ -1,4 +1,4 @@
 ---
-Student Life: Welcome to the life of a South African student
+Student-Life: Welcome to the life of a South African student
 ---
 
